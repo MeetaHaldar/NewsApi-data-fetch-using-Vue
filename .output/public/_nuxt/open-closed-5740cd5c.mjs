@@ -1,0 +1,1 @@
+import{s as t,p as l}from"./entry-fba3770b.mjs";let o=Symbol("Context");var r=(n=>(n[n.Open=0]="Open",n[n.Closed=1]="Closed",n))(r||{});function u(){return e()!==null}function e(){return t(o,null)}function i(n){l(o,n)}export{i as c,u as f,r as l,e as p};

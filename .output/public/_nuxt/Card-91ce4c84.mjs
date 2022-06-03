@@ -1,0 +1,1 @@
+import e from"./CardList-310f089d.mjs";import{_ as c,o as r,c as t,a as _}from"./entry-fba3770b.mjs";const a={},n={class:"p-10 grid grid-cols-2 gap-4"};function s(d,i){const o=e;return r(),t("div",n,[_(o)])}var f=c(a,[["render",s]]);export{f as default};
