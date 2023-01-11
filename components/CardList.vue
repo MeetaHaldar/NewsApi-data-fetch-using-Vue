@@ -38,7 +38,7 @@ export default {
           {{ product.description }}
         </p>
         <p class="text-gray-700 text-sm">
-          {{ showContent(product.content) }} <a :href="product.url" class="text-blue-600">Read more ...</a>
+          {{ product.content }} <a :href="product.url" class="text-blue-600">Read more ...</a>
         </p>
       </div>
       <div class="flex items-center">

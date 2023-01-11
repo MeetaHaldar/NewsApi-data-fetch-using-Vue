@@ -1,5 +1,5 @@
 <script setup>
-const { data: news, pending, error } = await useFetch('https://newsapi.org/v2/everything?q=Apple&from=2022-05-31&sortBy=popularity&apiKey=e34eccb2fd5f440b8edad44ff3ca69be')
+const { data: news, pending, error } = await useFetch('https://newsapi.org/v2/top-headlines?country=de&category=business&apiKey=e578ddeb9e3e4ae0a612c60c8bf6b9b6')
 </script>
 
 <template>
